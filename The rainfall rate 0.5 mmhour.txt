@@ -1,0 +1,14 @@
+The rainfall rate: 0.5 mm/hour
+Rainfall Duration: 24 hours
+Catchment area of the River: 185.000 km2
+
+
+ Catchment area in square meters:
+185.000 km2 = 185.000 × 10⁶ m2 = 185 × 10⁹ m2
+
+Total rainfall over 24 hours:
+0.5 mm/hour × 24 hours = 12 mm = 0.012 meters
+
+Volume = Area × Rainfall Depth
+
+Volume = 1.85 × 10¹¹ m² × 0.012 m = 2.22 × 10⁹ m³
